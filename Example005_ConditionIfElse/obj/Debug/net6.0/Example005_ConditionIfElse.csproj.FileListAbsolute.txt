@@ -1,0 +1,15 @@
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.AssemblyInfo.cs
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.deps.json
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.runtimeconfig.json
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/bin/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.dll
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/refint/Example005_ConditionIfElse.dll
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.pdb
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/Example005_ConditionIfElse.genruntimeconfig.cache
+/Users/innaletyagina/Desktop/GB 1/Лекция С#/Examples4/Example005_ConditionIfElse/obj/Debug/net6.0/ref/Example005_ConditionIfElse.dll
